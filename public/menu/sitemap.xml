@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/menu/categories/</loc>
+    <loc>https://shakthir.work/menu/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://shakthir.work/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/categories/"
+                href="https://shakthir.work/menu/categories/"
                 />
   </url><url>
-    <loc>http://example.org/menu/</loc>
+    <loc>https://shakthir.work/menu/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://shakthir.work/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/"
+                href="https://shakthir.work/menu/"
                 />
   </url><url>
-    <loc>http://example.org/menu/tags/</loc>
+    <loc>https://shakthir.work/menu/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://shakthir.work/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/tags/"
+                href="https://shakthir.work/menu/tags/"
                 />
   </url>
 </urlset>

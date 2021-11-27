@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://shakthir.work/archives/</loc>
     <lastmod>2021-11-28T02:49:50+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://shakthir.work/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/categories/"
+                href="https://shakthir.work/menu/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://shakthir.work/categories/"
                 />
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://shakthir.work/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/"
+                href="https://shakthir.work/menu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://shakthir.work/"
                 />
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://shakthir.work/search/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://shakthir.work/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="menu"
-                href="http://example.org/menu/tags/"
+                href="https://shakthir.work/menu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://shakthir.work/tags/"
                 />
   </url>
 </urlset>

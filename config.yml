@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://shakthir.work/
 languageCode: en-us
 title: My Pictures
 
@@ -26,7 +26,7 @@ languages:
                   weight: 10
                 - name: Categories
                   url: categories/
-                  weight: 10        
+                  weight: 10
   menu:
         main:
                 - name: Archive
