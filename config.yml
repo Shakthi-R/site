@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: My Pictures
 
 theme: "PaperMod"
 
@@ -8,4 +8,54 @@ outputs:
     home:
         - HTML
         - RSS
-        - JSON # is necessary
+        - JSON
+languages:
+  en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10        
+  menu:
+        main:
+                - name: Archive
+                  url: archives/
+                  weight: 5
+              #  - name: Tags
+              #    url: tags
+              #    weight: 10
+                - name: Categories
+                  url: categories
+                  weight: 10
+                - name: Series
+                  url: series
+                  weight: 10
+              #  - name: NullLink
+              #    url: "#"
+              #  - name: NullLink2
+              #    url: "#"
+              #  - name: NullLink3
+              #    url: "#"
+
+params:
+    defaultTheme: auto
+    homeInfoParams:
+        Title: Hi there
+        Content: Can be Info, links, about...
+
+    socialIcons:
+        #- name: "github"
+        #    url: "<link>"
+      #  - name: "<platform 2>"
+      #      url: "<link2>"
