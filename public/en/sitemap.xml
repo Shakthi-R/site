@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shakthir.work/post/fleshfly/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/fly/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="https://shakthir.work/menu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shakthir.work/"
+                />
+  </url><url>
+    <loc>https://shakthir.work/post/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="menu"
+                href="https://shakthir.work/menu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://shakthir.work/tags/"
+                />
+  </url><url>
     <loc>https://shakthir.work/archives/</loc>
     <lastmod>2021-11-28T02:49:50+05:30</lastmod>
   </url><url>
@@ -17,30 +52,6 @@
                 href="https://shakthir.work/categories/"
                 />
   </url><url>
-    <loc>https://shakthir.work/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="https://shakthir.work/menu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shakthir.work/"
-                />
-  </url><url>
     <loc>https://shakthir.work/search/</loc>
-  </url><url>
-    <loc>https://shakthir.work/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="menu"
-                href="https://shakthir.work/menu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://shakthir.work/tags/"
-                />
   </url>
 </urlset>
