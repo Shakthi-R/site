@@ -24,9 +24,7 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+
   menu:
         main:
                 - name: Archive
@@ -52,7 +50,8 @@ params:
     defaultTheme: auto
     homeInfoParams:
         Title: Hi there
-        Content: Can be Info, links, about...
+        Content: My name's Shakthi Rajesh and welcome to my site.
+                 I'm an amateur photographer and animal enthusiast. I created this site to show off some of my images and tell you a little bit about the animals in each one.
 
     socialIcons:
         #- name: "github"
