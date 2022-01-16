@@ -8,5 +8,5 @@ cover:
   image: ../../images/WhiteCrabSpider1/WhiteCrabSpider1.jpg
 weight: 1
 ---
-![image](../../images/WhiteCrabSpider/WhiteCrabSpider2.jpg)
-![image](../../images/WhiteCrabSpider/WhiteCrabSpider3.jpg)
+![image](../../images/WhiteCrabSpider1/WhiteCrabSpider2.jpg)
+![image](../../images/WhiteCrabSpider1/WhiteCrabSpider3.jpg)
