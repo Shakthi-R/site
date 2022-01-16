@@ -8,3 +8,4 @@ cover:
 ![image](../../images/ScorpWBabies/MotherScorpion2.jpg)
 Filler text
 ![image](../../images/ScorpWBabies/MotherScorpion3.jpg)
+![image](../../images/ScorpWBabies/ScorpionPortraitSmall.jpg)
