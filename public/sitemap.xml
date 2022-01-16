@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://shakthir.work/menu/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://shakthir.work/en/sitemap.xml</loc>
-    
-      <lastmod>2022-01-16T22:41:11+05:30</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://shakthir.work/post/dlmantis/</loc>
+    <lastmod>2022-01-16T22:41:11+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/mantis/</loc>
+    <lastmod>2022-01-16T22:41:11+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/</loc>
+    <lastmod>2022-01-16T22:41:11+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/post/</loc>
+    <lastmod>2022-01-16T22:41:11+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/</loc>
+    <lastmod>2022-01-16T22:41:11+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/centipede/</loc>
+    <lastmod>2022-01-16T22:07:51+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/post/centipede1/</loc>
+    <lastmod>2022-01-16T22:07:51+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/post/scorpionwbabies/</loc>
+    <lastmod>2021-12-28T13:28:21+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/post/lynxspider/</loc>
+    <lastmod>2021-12-28T10:34:10+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/spider/</loc>
+    <lastmod>2021-12-28T10:34:10+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/post/fleshfly/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/tags/fly/</loc>
+    <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/archives/</loc>
+    <lastmod>2021-11-28T02:49:50+05:30</lastmod>
+  </url><url>
+    <loc>https://shakthir.work/categories/</loc>
+  </url><url>
+    <loc>https://shakthir.work/search/</loc>
+  </url>
+</urlset>
