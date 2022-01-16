@@ -25,19 +25,20 @@ languages:
                   url: tags/
                   weight: 10
 
-  main:
-        - name: Archive
-          url: archives/
-          weight: 5
+
+        main:
+                - name: Archive
+                  url: archives/
+                  weight: 5
               #  - name: Tags
               #    url: tags
               #    weight: 10
-        - name: Categories
-          url: categories
-          weight: 10
-        - name: Series
-          url: series
-          weight: 10
+                - name: Categories
+                  url: categories
+                  weight: 10
+                - name: Series
+                  url: series
+                  weight: 10
               #  - name: NullLink
               #    url: "#"
               #  - name: NullLink2
