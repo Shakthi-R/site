@@ -1,0 +1,12 @@
+---
+title: "WhiteCrabSpider1"
+date: 2022-01-17T00:26:02+05:30
+summary: A crab spider from the genus Thomisus that has managed to catch a praying mantis...
+tags: ["Spider"]
+author: "Shakthi Rajesh"
+cover:
+  image: ../../images/WhiteCrabSpider1/WhiteCrabSpider1.jpg
+weight: 1
+---
+![image](../../images/WhiteCrabSpider/WhiteCrabSpider2.jpg)
+![image](../../images/WhiteCrabSpider/WhiteCrabSpider3.jpg)
