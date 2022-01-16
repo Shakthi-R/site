@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://shakthir.work/en/sitemap.xml</loc>
-    
-      <lastmod>2021-12-28T01:00:42+05:30</lastmod>
+    <loc>https://shakthir.work/menu/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://shakthir.work/menu/sitemap.xml</loc>
+    <loc>https://shakthir.work/en/sitemap.xml</loc>
+    
+      <lastmod>2022-01-16T22:41:11+05:30</lastmod>
     
   </sitemap>
   
