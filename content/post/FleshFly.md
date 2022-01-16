@@ -2,7 +2,7 @@
 title: "Flesh Fly"
 date: 2021-12-28T01:00:42+05:30
 tags: ["Fly"]
-summary: A flesh fly that I was able to photograph as it was siting on a branch
+summary: A flesh fly that I was able to photograph as it was sitting on a branch
 author: "Shakthi Rajesh"
 cover:
   image: ../../images/FleshFly/Fly1small.jpg
