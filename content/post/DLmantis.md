@@ -6,4 +6,5 @@ cover:
     image: ../../images/DLmantis/DLmantis1.jpg
 author: "Shakthi Rajesh"
 tags: ["Mantis"]
+weight: 2
 ---
