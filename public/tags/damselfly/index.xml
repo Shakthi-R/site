@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Damselfly on My Pictures</title>
+    <link>https://shakthir.work/tags/damselfly/</link>
+    <description>Recent content in Damselfly on My Pictures</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jan 2022 00:27:38 +0530</lastBuildDate><atom:link href="https://shakthir.work/tags/damselfly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Damselfly</title>
+      <link>https://shakthir.work/post/damselfly1/</link>
+      <pubDate>Tue, 18 Jan 2022 00:27:38 +0530</pubDate>
+      
+      <guid>https://shakthir.work/post/damselfly1/</guid>
+      <description>A damselfly from the family Coenagrionidae&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
