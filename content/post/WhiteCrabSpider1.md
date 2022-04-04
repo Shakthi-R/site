@@ -6,7 +6,7 @@ tags: ["Spider"]
 author: "Shakthi Rajesh"
 cover:
   image: ../../images/WhiteCrabSpider1/WhiteCrabSpider1.jpg
-weight: 1
+weight: 2
 ---
 ![image](../../images/WhiteCrabSpider1/WhiteCrabSpider2.jpg)
 ![image](../../images/WhiteCrabSpider1/WhiteCrabSpider3.jpg)

@@ -6,7 +6,7 @@ cover:
     image: ../../images/UBmantis/UBmantis1.jpg
 author: "Shakthi Rajesh"
 tags: ["Mantis"]
-weight: 2
+weight: 1
 ---
 ![image](../../images/UBmantis/UBMantisPortrait.jpg)
 ![image](../../images/UBmantis/UBmantis2.jpg)

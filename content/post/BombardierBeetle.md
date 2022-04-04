@@ -6,5 +6,6 @@ cover:
   Image: ../../images/BombardierBeetle/BombardierBeetle1.jpg
 tags: ["Beetle"]
 author: "Shakthi Rajesh"
+weight: 4
 ---
 ![image](../../images/BombardierBeetle/BombardierBeetle2.jpg)
