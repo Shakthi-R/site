@@ -5,6 +5,6 @@ Summary: a praying mantis that would eventually be eaten by a crab spider as see
 cover:
     image: ../../images/PrayingMantis1/mantisAlive.jpg
 tags: ["Mantis"]
-weight: 4
+weight: 5
 author: "Shakthi Rajesh"
 ---
